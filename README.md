@@ -7,7 +7,3 @@
 - .NET framework
 - AspNet Core
 - Swagger
--
--
-
-# Proj_Mercado_Seguros
