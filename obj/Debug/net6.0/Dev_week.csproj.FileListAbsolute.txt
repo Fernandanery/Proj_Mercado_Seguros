@@ -25,3 +25,30 @@ C:\Users\Fernanda_dev\OneDrive - ROADPASS PAYMENTS & URBAN MOBILITY LTDA\Área d
 C:\Users\Fernanda_dev\OneDrive - ROADPASS PAYMENTS & URBAN MOBILITY LTDA\Área de Trabalho\Dev_week\obj\Debug\net6.0\Dev_week.pdb
 C:\Users\Fernanda_dev\OneDrive - ROADPASS PAYMENTS & URBAN MOBILITY LTDA\Área de Trabalho\Dev_week\obj\Debug\net6.0\Dev_week.genruntimeconfig.cache
 C:\Users\Fernanda_dev\OneDrive - ROADPASS PAYMENTS & URBAN MOBILITY LTDA\Área de Trabalho\Dev_week\obj\Debug\net6.0\ref\Dev_week.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\appsettings.json
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Dev_week.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Dev_week.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Dev_week.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Dev_week.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Dev_week.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\scopedcss\bundle\Dev_week.styles.css
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\refint\Dev_week.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\ref\Dev_week.dll

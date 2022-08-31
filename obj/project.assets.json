@@ -16,10 +16,14 @@
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore/6.2.3": {
@@ -40,10 +44,14 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -55,19 +63,27 @@
           "Swashbuckle.AspNetCore.Swagger": "6.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -208,19 +224,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fernanda_dev\\.nuget\\packages\\": {}
+    "C:\\Users\\ferna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fernanda_dev\\OneDrive - ROADPASS PAYMENTS & URBAN MOBILITY LTDA\\Área de Trabalho\\Dev_week\\Dev_week.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\FERNANDA\\ADS\\WS_visual\\Proj_Mercado_Seguros\\Dev_week.csproj",
       "projectName": "Dev_week",
-      "projectPath": "C:\\Users\\Fernanda_dev\\OneDrive - ROADPASS PAYMENTS & URBAN MOBILITY LTDA\\Área de Trabalho\\Dev_week\\Dev_week.csproj",
-      "packagesPath": "C:\\Users\\Fernanda_dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fernanda_dev\\OneDrive - ROADPASS PAYMENTS & URBAN MOBILITY LTDA\\Área de Trabalho\\Dev_week\\obj\\",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\FERNANDA\\ADS\\WS_visual\\Proj_Mercado_Seguros\\Dev_week.csproj",
+      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\FERNANDA\\ADS\\WS_visual\\Proj_Mercado_Seguros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fernanda_dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -257,7 +273,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -269,7 +286,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

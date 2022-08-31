@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "X72kg1etsWf5T8Jc7mcP2C+4mAPZGlXE7tbIk8Sn4GWpXmDdDaL/DE6U1FIi9G1v0QKF2pX4ksieT4vduSD1FQ==",
+  "dgSpecHash": "U6YpgghFJfaVQexrzgbcpbgl24GxT887EdsYi7d0LXTafTfUt7KI2kbDSzH2LfLPciVS2nN2pgX/zFmGkNbwMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fernanda_dev\\OneDrive - ROADPASS PAYMENTS & URBAN MOBILITY LTDA\\Área de Trabalho\\Dev_week\\Dev_week.csproj",
+  "projectFilePath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\FERNANDA\\ADS\\WS_visual\\Proj_Mercado_Seguros\\Dev_week.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Fernanda_dev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Fernanda_dev\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Fernanda_dev\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Fernanda_dev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Fernanda_dev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Fernanda_dev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
