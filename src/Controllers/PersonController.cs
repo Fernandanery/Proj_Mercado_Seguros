@@ -1,26 +1,30 @@
 using Microsoft.AspNetCore.Mvc;
 using Proj_Mercado_Seguros.src.Models;
+using Proj_Mercado_Seguros.src.Persisntence;
+using Microsoft.EntityFrameworkCore;
 
 namespace Proj_Mercado_Seguros.src.Controllers;
 
 [ApiController]
 [Route("[controller]")]
 public class PersonController : ControllerBase
-
 {
-    [HttpGet]
-    public Pessoa Get()
+    private DataBaseContext _context { get; set; }
+    public PersonController(DataBaseContext context)
     {
-        Pessoa pessoa = new Pessoa("Fernanda", 30, "402029358471");
-        Contrato NovoContrato = new Contrato(50.63, "abc123");
-
-        pessoa.contratos.Add(NovoContrato);
-
-        return pessoa;
+        this._context = context ;
     }
-    [HttpPost]
-    public Pessoa Post(Pessoa pessoa)
+
+    [HttpGet]
+    public List<Pessoa> Get()
     {
+        return _context.Pessoas.Include(p => p.contratos).ToList() ;
+    }
+
+    [HttpPost]
+    public Pessoa Post(Pessoa pessoa) {
+        _context.Pessoas.Add(pessoa);
+        _context.SaveChanges();    
 
         return pessoa;
     }
@@ -28,9 +32,10 @@ public class PersonController : ControllerBase
     [HttpPut("{id}")]
     public string Update([FromRoute] int id, [FromBody] Pessoa pessoa)
     {
-        Console.WriteLine(id);
-        Console.WriteLine(pessoa);
-        return "Dados do Id" + " " + id + "atualizados";
+        _context.Pessoas.Update(pessoa);
+        _context.SaveChanges();
+
+        return "Dados do Id " + id + " atualizados";
     }
     [HttpDelete("{id}")]
     public string Delete([FromRoute] int id)

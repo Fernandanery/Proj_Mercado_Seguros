@@ -1,4 +1,4 @@
-# Cadastro e armazenamento de documentos
+# Cadastro e armazenamento de comtratos de usuários
 # Projeto baseado no mercado de seguros
 
 - Dev Week _DIO
@@ -7,3 +7,4 @@
 - .NET framework
 - AspNet Core
 - Swagger
+- Entity Framework Core

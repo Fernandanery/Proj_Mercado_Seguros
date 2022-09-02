@@ -52,3 +52,17 @@ C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Se
 C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.pdb
 C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\Dev_week.genruntimeconfig.cache
 C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\obj\Debug\net6.0\ref\Dev_week.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\FERNANDA\ADS\WS_visual\Proj_Mercado_Seguros\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

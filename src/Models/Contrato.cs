@@ -23,9 +23,11 @@ namespace Proj_Mercado_Seguros.src.Models
             this.IdToken = IdToken;
             this.Pago = false;
         }
+        public int Id { get; set; }
         public DateTime DataCriacao { get; set; }
         public string IdToken { get; set; }
         public double Valor { get; set; }
         public bool Pago { get; set; }
+        public int PessoaId { get; set; }
     }
 }
