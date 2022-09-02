@@ -31,6 +31,7 @@ namespace Proj_Mercado_Seguros.src.Models
         public int Idade { get; set; }
         public string? Cpf { get; set; }
         public bool Ativado { get; set; }
+        public int PessoaId { get; set; }
         public List<Contrato> contratos { get; set; }
     }
 }
